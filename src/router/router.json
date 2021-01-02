@@ -1,0 +1,2 @@
+
+{ "title": "Shell", "icon": "mdi-powershell", "route": "/shell", "main": "ShellComponent" }

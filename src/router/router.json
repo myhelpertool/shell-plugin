@@ -1,2 +1,2 @@
 
-{ "title": "Shell", "icon": "mdi-powershell", "route": "/shell", "main": "ShellComponent" }
+{ "title": "Shell", "icon": "mdi-powershell", "route": "/shell", "main": "ShellComponent", "pluginRootDirectory": "shell-plugin", "path":"shell" }
